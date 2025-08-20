@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ReadRod](https://github.com/viniciusrodmusic/ReadRod)
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, Python**
+- 🌱 I’m currently learning **JavaScript, React, HTML, CSS, Python**
 
 - 💬 Ask me about **my goals**
 
