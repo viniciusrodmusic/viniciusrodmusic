@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Vinícius Rodrigues</h1>
 <h3 align="center">A Frontend Developer from Brasil</h3>
 
-- 🔭 I’m currently working on [ReadRod](https://github.com/viniciusrodmusic/ReadRod)
+- 🔭 I'm currently working on [ReadRod](https://github.com/viniciusrodmusic/ReadRod)
 
-- 🌱 I’m currently learning **JavaScript, React, HTML, CSS, Python**
+- 🌱 I'm currently learning **JavaScript, React, HTML, CSS, Python**
 
 - 💬 Ask me about **my goals**
 
@@ -29,6 +29,11 @@
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+
+  <!-- React - Logo Oficial -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
 
   <!-- Ferramentas -->
