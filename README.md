@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Vinícius Rodrigues</h1>
-<h3 align="center">A Frontend Developer from Brasil</h3>
+<h3 align="center">A Frontend Developer from Brazil</h3>
 
 - 🔭 I'm currently working on [ReadRod](https://github.com/viniciusrodmusic/ReadRod)
 
