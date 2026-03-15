@@ -1,13 +1,13 @@
 <h1 align="center">Hey 👋, I'm Vinícius Rodrigues</h1>
 <h3 align="center">A Frontend Developer from Brazil</h3>
 
-- 🔭 I'm currently working on [ReadRod](https://github.com/viniciusrodmusic/ReadRod)
+- 🔭 My main project is [ReadRod](https://github.com/viniciusrodmusic/ReadRod)
 
-- 🌱 I'm currently learning **JavaScript, React, HTML, CSS, Python**
+- 🌱 I'm currently learning **JavaScript, NextJS, HTML, CSS, Python**
 
 - 💬 Ask me about **my goals**
 
-- ⚡ Fun fact: **I learn very (very) fast**
+- ⚡ Fun fact: **I can speak both English and Spanish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
